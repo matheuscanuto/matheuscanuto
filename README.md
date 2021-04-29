@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - javascript JS
 - html 5
 - css 3
-![Canuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+![Canuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
