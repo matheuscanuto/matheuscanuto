@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - html 5
 - css 3
 
-![Canuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Canuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscanuto&show_icons=true&theme=radical)
