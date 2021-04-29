@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # matheus canuto 👨‍🔬
--python 🐍
--javascript JS
--html 5
--css 3
+- python 🐍
+- javascript JS
+- html 5
+- css 3
