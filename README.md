@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+matheus canuto 👨‍🔬
+-python 🐍
+-javascript JS
+-html 5
+-css 3
