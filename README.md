@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - css 3
 
 ![Canuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscanuto&show_icons=true&theme=radical)
+![Canuto](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscanuto&layout=compact&show_icons=true&theme=tokyonight)
+
