@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # matheus canuto 👨‍🔬
-Hey ! my name is matheus, i'm 13 years old and i love programming
+Hi ! my name is matheus, i'm 13 years old and i love programming
 - python 🐍
 - javascript JS
 - html 5
