@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - css 3
 - sites:
 - https://matheuscanuto.github.io/law-of-ohm/
+- https://matheuscanuto.github.io/universo/
 
 ![Canuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscanuto&show_icons=true&theme=radical)
 ![Canuto](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscanuto&layout=compact&show_icons=true&theme=tokyonight)
