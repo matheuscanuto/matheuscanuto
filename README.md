@@ -23,6 +23,7 @@ Hi ! my name is matheus, i'm 13 years old and i love programming
 - sites:
 - https://matheuscanuto.github.io/law-of-ohm/
 - https://matheuscanuto.github.io/universo/
+- https://matheuscanuto.github.io/simple-fees/
 
 ![Canuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscanuto&show_icons=true&theme=radical)
 ![Canuto](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscanuto&layout=compact&show_icons=true&theme=tokyonight)
