@@ -25,6 +25,7 @@ Hi ! my name is matheus, i'm 13 years old and i love programming
 - https://matheuscanuto.github.io/universo/
 - https://matheuscanuto.github.io/simple-fees/
 - https://matheuscanuto.github.io/logic-gates/
+- the logic gates website has been updated with more logic gates that I had forgotten
 
 ![Canuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscanuto&show_icons=true&theme=radical)
 ![Canuto](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscanuto&layout=compact&show_icons=true&theme=tokyonight)
