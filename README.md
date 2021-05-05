@@ -19,6 +19,7 @@ Hi ! my name is matheus, i'm 13 years old and i love programming
 - python 🐍
 - javascript JS
 - typescript
+- dart
 - html 5
 - css 3
 - sites:
