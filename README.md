@@ -27,6 +27,8 @@ Hi ! my name is matheus, i'm 13 years old and i love programming
 - https://matheuscanuto.github.io/universo/
 - https://matheuscanuto.github.io/simple-fees/
 - https://matheuscanuto.github.io/logic-gates/
+-skills:
+<img align="center" alt="matheus-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;">
 
 
 ![Canuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscanuto&show_icons=true&theme=radical)
