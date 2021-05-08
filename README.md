@@ -29,6 +29,8 @@ Hi ! my name is matheus, i'm 13 years old and i love programming
 <img  alt="matheus-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="max-width:100%;"></img>
 <img  alt="matheus-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;"></img>
 <img  alt="matheus-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" style="max-width:100%;"></img>
+<img  alt="matheus-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="max-width:100%;"></img>
+<img  alt="matheus-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" style="max-width:100%;"></img>
 
 <img  alt="matheus-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="max-width:100%;"></img>
 
