@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # matheus canuto 👨‍🔬
-Hi ! my name is matheus, i'm 13 years old and i love programming
 - sites:
 - https://matheuscanuto.github.io/law-of-ohm/
 - https://matheuscanuto.github.io/universo/
